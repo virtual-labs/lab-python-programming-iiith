@@ -9,44 +9,44 @@
   "phase": "3-ext",
   "collegeName": "IIITH",
   "baseUrl": "python-iiith.vlabs.ac.in",
-  "introduction": "The Python Programming Virtual Lab is a carefully designed platform aimed at equipping students with practical programming skills. This virtual laboratory allows students to gain hands-on experience in fundamental and advanced Python concepts. Through interactive experiments, students explore topics such as complex data types, higher-order functions, lambda expressions, extended formal argument syntax, and exception handling.<br> This lab is created an extension to the already existing python programming lab, adding 5 more experiments of advanced python to the lab. The lab emphasizes programming techniques essential for solving real-world computational problems and understanding the intricacies of Python programming. By fostering an engaging and structured learning environment, the virtual lab bridges the gap between theoretical programming concepts and their practical application, empowering students to develop industry-relevant skills.",
-      "experiments": [
-        {
-            "name": "Complex Datatypes",
-            "short-name": "complex-datatypes",
-            "repo": "https://github.com/virtual-labs/exp-complex-datatypes-iiith",
-            "tag": "v1.0.0",
-            "deploy": true
-        },
-        {
-            "name": "Higher Order Functions",
-            "short-name": "higher-order-functions",
-            "repo": "https://github.com/virtual-labs/exp-higher-order-functions-iiith",
-            "tag": "v1.0.0",
-            "deploy": true
-        },
-        {
-            "name": "Lambda Functions",
-            "short-name": "lambda-functions",
-            "repo": "https://github.com/virtual-labs/exp-lambda-functions-iiith",
-            "tag": "v1.0.0",
-            "deploy": true
-        },
-        {
-            "name": "Extended Formal Argument Syntax",
-            "short-name": "argument-syntax",
-            "repo": "https://github.com/virtual-labs/exp-argument-syntax-iiith",
-            "tag": "v1.0.0",
-            "deploy": true
-        },
-        {
-            "name": "Exception Handling",
-            "short-name": "sacrificial-electrodes-mfc",
-            "repo": "https://github.com/virtual-labs/exp-exception-handling-iiith",
-            "tag": "v1.0.0",
-            "deploy": true
-        }
-    ],
+  "introduction": "The Python Lab - Advanced Topics is a carefully designed platform aimed at equipping students with practical programming skills. This virtual laboratory allows students to gain hands-on experience in fundamental and advanced Python concepts. Through interactive experiments, students explore topics such as complex data types, higher-order functions, lambda expressions, extended formal argument syntax, and exception handling.<br> This lab is created an extension to the already existing python programming lab, adding 5 more experiments of advanced python to the lab. The lab emphasizes programming techniques essential for solving real-world computational problems and understanding the intricacies of Python programming. By fostering an engaging and structured learning environment, the virtual lab bridges the gap between theoretical programming concepts and their practical application, empowering students to develop industry-relevant skills.",
+  "experiments": [
+    {
+      "name": "Complex Datatypes",
+      "short-name": "complex-datatypes",
+      "repo": "https://github.com/virtual-labs/exp-complex-datatypes-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Higher Order Functions",
+      "short-name": "higher-order-functions",
+      "repo": "https://github.com/virtual-labs/exp-higher-order-functions-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Lambda Functions",
+      "short-name": "lambda-functions",
+      "repo": "https://github.com/virtual-labs/exp-lambda-functions-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Extended Formal Argument Syntax",
+      "short-name": "argument-syntax",
+      "repo": "https://github.com/virtual-labs/exp-argument-syntax-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Exception Handling",
+      "short-name": "sacrificial-electrodes-mfc",
+      "repo": "https://github.com/virtual-labs/exp-exception-handling-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+  ],
   "targetAudience": {
     "UG": [
       "Undergraduate Students (1st Year/2nd Year): These students will benefit most from the foundational and advanced Python programming concepts covered in the lab, making this group the highest priority for development.",
@@ -61,7 +61,5 @@
       "IIT Madras: Programming in Python IIT Madras; BTech CSE",
       "IIT Kanpur: Programming in Python IIT Kanpur: BTech CSE"
     ]
-
- 
-}
+  }
 }
